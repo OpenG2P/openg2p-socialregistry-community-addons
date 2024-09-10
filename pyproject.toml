@@ -15,6 +15,13 @@ dependencies = [
     "odoo-addon-storage_backend @ {root:uri}/storage_backend",
     "odoo-addon-storage_backend_s3 @ {root:uri}/storage_backend_s3",
     "odoo-addon-storage_file @ {root:uri}/storage_file",
+    "odoo-addon-muk_product @ {root:uri}/muk_product",
+    "odoo-addon-muk_web_appsbar @ {root:uri}/muk_web_appsbar",
+    "odoo-addon-muk_web_chatter @ {root:uri}/muk_web_chatter",
+    "odoo-addon-muk_web_colors @ {root:uri}/muk_web_colors",
+    "odoo-addon-muk_web_dialog @ {root:uri}/muk_web_dialog",
+    "odoo-addon-muk_web_enterprise_theme @ {root:uri}/muk_web_enterprise_theme",
+    "odoo-addon-muk_web_theme @ {root:uri}/muk_web_theme",
 ]
 
 [tool.hatch.metadata]
